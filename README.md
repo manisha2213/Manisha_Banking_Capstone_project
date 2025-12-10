@@ -411,3 +411,62 @@ FINAL PROJECT SUMMARY (Copy-Paste Ready)
 • Successfully validated the pipeline end-to-end, ensuring accuracy, automation, and scalability.
 
 Screenshots:*
+<img width="1280" height="638" alt="image" src="https://github.com/user-attachments/assets/eee56819-8228-49e6-8786-bb4477cfd85c" />
+
+<img width="1360" height="663" alt="image" src="https://github.com/user-attachments/assets/ed674750-82f0-4ed3-b0b1-65ab28196c85" />
+
+<img width="1280" height="639" alt="image" src="https://github.com/user-attachments/assets/89af6268-5af4-4c5b-b04f-c0fa3f0b5101" />
+
+<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/80e4c7f3-71c2-4ebf-aa70-8a0ac33bdee3" />
+
+<img width="744" height="380" alt="image" src="https://github.com/user-attachments/assets/1fa2f609-68f7-44ad-9872-572ffe9551d9" />
+
+<img width="537" height="593" alt="image" src="https://github.com/user-attachments/assets/fc1df5a2-ccc8-4c72-81e3-577041da972c" />
+
+<img width="1280" height="609" alt="image" src="https://github.com/user-attachments/assets/1b373bc2-de44-4d87-8e8b-928f9b0e4d26" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c05c31dc-cf81-4bd9-a1bc-ac02814f408a" />
+
+<img width="1093" height="761" alt="image" src="https://github.com/user-attachments/assets/98698991-5444-401a-88ae-70787ac9d1ee" />
+
+<img width="835" height="653" alt="image" src="https://github.com/user-attachments/assets/784bff23-3e79-4a31-9171-401e59831f17" />
+
+<img width="1012" height="735" alt="image" src="https://github.com/user-attachments/assets/5031277a-26e0-4024-9a6e-baeaf1d81392" />
+
+<img width="1013" height="467" alt="image" src="https://github.com/user-attachments/assets/1cdfa28b-d931-479a-9e90-d2c0aaab0431" />
+
+<img width="1280" height="657" alt="image" src="https://github.com/user-attachments/assets/d84e2d82-7bf7-4da0-a5bb-875838cf04ac" />
+
+<img width="1022" height="733" alt="image" src="https://github.com/user-attachments/assets/9b826961-a0c6-478f-ac26-ef71d8eab78a" />
+
+<img width="1022" height="733" alt="image" src="https://github.com/user-attachments/assets/c42670ac-f119-4f57-9cbd-44b754e3fc04" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
